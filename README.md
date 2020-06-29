@@ -1,4 +1,4 @@
-# Springerbedrohung
+# Threat Viz
 
 ## HowTo
 Run the application using `java -jar springerbedrohung.jar x y piece visualization`
